@@ -190,8 +190,8 @@ remote_java_repository(
         "@platforms//os:linux",
     ],
     urls = [
-        "https://cdn.azul.com/zulu/bin/zulu17.42.19-ca-jdk17.0.7-macosx_aarch64.tar.gz",
-        "https://sonatype-nexus.it-fivetran.com/repository/azul/zulu/bin/zulu17.42.19-ca-jdk17.0.7-macosx_aarch64.tar.gz",
+        "https://cdn.azul.com/zulu/bin/zulu17.42.19-ca-jdk17.0.7-linux_aarch64.tar.gz",
+        "https://sonatype-nexus.it-fivetran.com/repository/azul/zulu/bin/zulu17.42.19-ca-jdk17.0.7-linux_aarch64.tar.gz",
     ],
     version = "17",
 )
