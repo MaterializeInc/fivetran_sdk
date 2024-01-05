@@ -183,7 +183,7 @@ remote_java_repository(
 remote_java_repository(
     name = "zulu17.42.19-ca-jdk17.0.7-linux_aarch64",
     prefix = "zulu_jdk",
-    sha256 = "650be4ed94caa22ec4242b007f90f8f3bad32f66c0a60ff9a18044ce2761a049",
+    sha256 = "c37caf7e2dc98ede2613a83be0bf712c5a4a8429753f0c83411be55e0f5e5fd0",
     strip_prefix = "zulu17.42.19-ca-jdk17.0.7-linux_aarch64",
     target_compatible_with = [
         "@platforms//cpu:arm64",
